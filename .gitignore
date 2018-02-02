@@ -1,0 +1,5 @@
+dist/
+.vscode/
+node_modules/
+# no need to lock that, it's the publish version only that can be used
+package-lock.json

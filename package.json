@@ -1,0 +1,29 @@
+{
+  "name": "simple-icons-css",
+  "version": "0.0.2",
+  "description": "CSS to use simple-icons",
+  "main" : "dist/simple-icons.css",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomap/simple-icons-css.git"
+  },
+  "keywords": [
+    "simple-icons",
+    "css"
+  ],
+  "author": "tomap",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/tomap/simple-icons-css/issues"
+  },
+  "homepage": "https://github.com/tomap/simple-icons-css#readme",
+  "devDependencies": {
+    "simple-icons": "1.2.19"
+  }
+}

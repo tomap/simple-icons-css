@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - "node"
+
+script:
+  - node .
+
+deploy:
+  provider: npm  
+  api_key: "$NPM_KEY"
+  on:
+    branch: master
