@@ -7,6 +7,7 @@ script:
 
 deploy:
   provider: npm  
+  email: "npm@tpî.eu"
   api_key: "$NPM_KEY"
   on:
     branch: master
