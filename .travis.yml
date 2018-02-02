@@ -9,5 +9,6 @@ deploy:
   provider: npm  
   email: "npm@tpî.eu"
   api_key: "$NPM_KEY"
+  skip_cleanup: true
   on:
     branch: master
