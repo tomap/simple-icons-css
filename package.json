@@ -1,6 +1,6 @@
 {
   "name": "simple-icons-css",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CSS to use simple-icons",
   "main" : "dist/simple-icons.css",
   "files": [
@@ -18,7 +18,7 @@
     "css"
   ],
   "author": "tomap",
-  "license": "CC0",
+  "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/tomap/simple-icons-css/issues"
   },
